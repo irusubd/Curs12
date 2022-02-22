@@ -1,0 +1,4 @@
+11:31:13.410 [main] INFO  curs12.LogExample - info
+11:31:13.413 [main] WARN  curs12.LogExample - warn
+11:31:13.413 [main] ERROR curs12.LogExample - error
+11:31:13.413 [main] FATAL curs12.LogExample - fatal
